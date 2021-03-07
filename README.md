@@ -19,7 +19,7 @@ gcc -o MiniLisp_exe MiniLisp.tab.o MiniLisp.yy.o -ll
 
 ## 執行測試結果:
 ```pesudo=
-./p2final < "file_name".lsp
+./MiniLisp_exe < "file_name".lsp
 ```
 ## 程式架構
 
