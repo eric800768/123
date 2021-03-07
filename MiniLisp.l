@@ -1,5 +1,5 @@
 %{
-#include "p2.tab.h"
+#include "MiniLisp.tab.h"
 %}
 digit [0-9]
 letter [a-z]
